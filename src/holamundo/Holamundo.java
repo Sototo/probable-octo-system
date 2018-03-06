@@ -18,6 +18,7 @@ public class Holamundo {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog (null, "Hola mundo!");
+        JOptionPane.showMessageDialog (null, "Ella no te ama :'v");
     }
     
 }
